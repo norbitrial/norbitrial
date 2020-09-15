@@ -6,7 +6,7 @@ I do love chocolate and coffee! 😊🍫☕
 
 My Website: https://szabonorbert.me 🌐
 
-[LinkedIn](https://www.linkedin.com/in/norbertszabo1988/) 📝 | [My first game - Feed the Turtle](https://feed-the-turtle.szabonorbert.me/) 🐢
+[LinkedIn](https://www.linkedin.com/in/norbertszabo1988/) 📝 | [My first game - Feed the Turtle](https://feed-the-turtle.szabonorbert.me/) 🐢 | [StackOverflow Profile](https://stackoverflow.com/users/7599510/norbitrial?tab=profile) 🔮
 
 <!--
 **norbitrial/norbitrial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
